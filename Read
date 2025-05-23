@@ -1,0 +1,3 @@
+El Ejercicio consta de una estructura de 3 elementos en la cual es pide ingresar por teclado el Nombre, La edad y La nota de 3 Estudiantes.
+Luego mostrara por pantalla los datos de los estudiantes
+Y Seguidamente comparara las 3 Notas ingresadas y Mostrara por pantalla Los datos de el estudiante con la nota mas alta.
